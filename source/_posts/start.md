@@ -37,7 +37,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS6jOasoee9kemakC3lrozpmpDnur/ot68tU2hh
 
 2. 一般语法
 ```markdown
-你好！\ Hello \ $Hello$
+你好\ Hello\ $Hello$
 
 ~这个是删除线~
 
@@ -101,4 +101,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS6jOasoee9kemakC3lrozpmpDnur/ot68tU2hh
 有很多种，你记住这一种就行了
 ---
 
-5. 想不到什么别的了，有问题再找我吧
+5. 想不到什么别的了，有问题再找我吧\
+   markdown转换功能多少有点bug，但是够你用了，小排版问题可以忽略不计
