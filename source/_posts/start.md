@@ -101,5 +101,25 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS6jOasoee9kemakC3lrozpmpDnur/ot68tU2hh
 有很多种，你记住这一种就行了
 ---
 
-5. 想不到什么别的了，有问题再找我吧\
+5. 我也忘了这个叫啥了
+```
+> 就是这个，我特意写的这个的优化，感觉挺好看的
+```
+> 就是这个，我特意写的这个的优化，感觉挺好看的
+
+6. 想不到什么别的了，有问题再找我吧\
    markdown转换功能多少有点bug，但是够你用了，小排版问题可以忽略不计
+   
+## 关于你的域名
+我给你看了个特别棒的
+wakeyou.love，年36.99美，折合人民币257
+![image](https://user-images.githubusercontent.com/97796289/224020991-6ab62b73-e8ce-4e1e-9eb5-ab275488cbba.png)
+或者就是
+wakeyou.top，年16.99美，折合人民币118
+![image](https://user-images.githubusercontent.com/97796289/224021399-6bfba8d7-a06e-4b7c-8d06-3b6ca757cea7.png)
+> 其实wakeyou基本属于普通字符了，就是你选别的价格也跟这个差不多（除非你非要看wake这种字符肯定是贵到天价，~wake.cn一口价域名45万~）
+
+用几天感觉一下看看你要不要买域名，买多久（时间长好谈优惠但是太长了又没必要），买什么你自己想想吧
+
+哦对了，上面的给的都是原价，我应该还能弄到便宜点的，但是你也别抱太大希望，顶多便宜小几十块
+
