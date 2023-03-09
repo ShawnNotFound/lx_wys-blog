@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shawn 's Blog
+title: Wake Li 's Blog
 subtitle: ''
 description: ''
 keywords:
@@ -103,7 +103,7 @@ theme: async
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:ShawnNotFound/Shawns-blog.git 
+  repo: git@github.com:ShawnNotFound/lx_wys-blog.git 
   branch: pages
 
 # Music Player
