@@ -29,6 +29,10 @@ user:
   describe: 世事漫随流水 算来一生浮梦。
   ruleText: <br> 暂不接受友链申请，仅收录部分个人实用链接。
 
+
+icons:
+  email: far fa-heart
+
 # 顶栏 | 导航栏 | TopBars
 
 top_bars:
