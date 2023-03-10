@@ -20,12 +20,12 @@ favicon:
 # 用户信息
 
 user:
-  name: Shawn # 侧边栏与其他位置的姓名标识
-  first_name: Shawn
-  last_name:  # 顶栏姓名标识
-  avatar: # https://tse4-mm.cn.bing.net/th/id/OIP-C.xNLWrybyA5rgSUMPR9AozgAAAA?pid=ImgDet&rs=1
+  name: Wakelee # 侧边栏与其他位置的姓名标识
+  first_name: Lee
+  last_name: Wake # 顶栏姓名标识
+  avatar: https://tse4-mm.cn.bing.net/th/id/OIP-C.xNLWrybyA5rgSUMPR9AozgAAAA?pid=ImgDet&rs=1
   email: 2557114220@qq.com
-  domain: https://blog.shawn404.top/
+  domain: https://wake-wys.netlify.app/
   describe: 世事漫随流水 算来一生浮梦。
   ruleText: <br> 暂不接受友链申请，仅收录部分个人实用链接。
 
@@ -62,13 +62,7 @@ top_bars:
 
 sidebar:
   social:  # 社交地址
-    - name: github
-      icon: fab fa-github   
-      url: https://github.com/ShawnNotFound
-    
-    - name: chatroom
-      icon: fa fa-comment
-      url: https://chat.shawn404.top
+   
 
 ## 打字动画
 
@@ -110,7 +104,7 @@ banner:
 
 categorie_card:
   enable: true
-  len: 2
+  len: 1
   list: ['随笔']
 
 # 归档页
@@ -130,7 +124,7 @@ footer:
   live_time:
     enable: true
     prefix: footer.tips
-    start_time: 03/02/2023 8:00:00
+    start_time: 03/10/2023 8:00:00
 
 # 文章Artical
 
@@ -150,31 +144,16 @@ toc:
 
 # 百度SEO
 
-baidu_push: true
+baidu_push: false
 
-# 评论
 
-comment:
-  giscus:
-    enable: true
-    repo: ShawnNotFound/blog-repo
-    repo-id: R_kgDOJGBX3Q
-    category: General
-    category-id: DIC_kwDOJGBX3c4CUr3G
-    mapping: pathname
-    reactions-enabled: 1
-    emit-metadata: 0
-    lang: zh-CN
-    theme: 
-      light: light
-      dark: dark
 
 
 
 # 链接页配置，请见 /source/_data/links.yml
 
 reward:
-  enable: true
+  enable: false
   comment: Buy me a coffee~
   url: https://afdian.net/a/ShawnNotFound
 
@@ -182,7 +161,7 @@ reward:
 # 关于页
 
 about:
-  introduction: $Hi$，我是Shawn <br> 很高兴您能在浩瀚如烟的互联网世界里发现我的博客. <br> <br> 我是一名 oier, 极客, 摆烂主义者 <br> 热衷于探索计算机的一切 <br> 正在石家庄二中度过充实美好的三年 <br> 我将在此分享一些学习笔记以及其他有趣的东西. <br> <br> 别来无恙啊 ~   # 个人简单描述
+  introduction: 
   blog: Powered by Hexo # 博客信息
   privacy: 本网站不会追踪访客行为，且不要求访客提供任何敏感信息（真实姓名、身份证号码、手机号等），因而也不存在任何隐私泄漏问题。访客参与评论，必须遵守法律法规和基本道德规范，文明礼貌。严禁发布任何有关淫秽、反动、暴力、博彩、恐吓、低俗的内容等违法信息，在尊重言论自由的同时请保持和平与理性。请勿对他人采取不友好的评论或其它过激行为。     # 隐私权说明    
 
