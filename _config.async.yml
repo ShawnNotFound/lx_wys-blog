@@ -82,8 +82,8 @@ sidebar:
 
 banner:
   index:
-    type: video
-    bgurl: https://cdn.moji.com/websrc/video/autumn20190924.mp4
+    # type: video
+    # bgurl: https://cdn.moji.com/websrc/video/autumn20190924.mp4
     bannerTitle: 树深时见鹿，<br>溪午不闻钟。
     bannerText: Hi my friend!
 
