@@ -1,29 +1,29 @@
-- name: Luogu
-  url: https://www.luogu.com.cn/
-  image: /img/luogu.png
-  desc: Luogu | Dev for Oiers~
+#- name: Luogu
+#  url: https://www.luogu.com.cn/
+#  image: /img/luogu.png
+#  desc: Luogu | Dev for Oiers~
 
-- name: AcWing
-  url: https://acwing.com/
-  image: https://t7.baidu.com/it/u=3854013865,1597714249&fm=74&app=80&size=f256,256&n=0&f=JPEG&fmt=auto?sec=1677949200&t=df7894565f5a662e57bf0f31db50b88d
-  desc: Online classes dev by yxc
+#- name: AcWing
+#  url: https://acwing.com/
+#  image: https://t7.baidu.com/it/u=3854013865,1597714249&fm=74&app=80&size=f256,256&n=0&f=JPEG&fmt=auto?sec=1677949200&t=df7894565f5a662e57bf0f31db50b88d
+#  desc: Online classes dev by yxc
 
-- name: S2OJ
-  url: https://sjzezoj.com/
-  image: https://sjzezoj.com/images/logo_small.png
-  desc: The OJ of S2 Middle School
+#- name: S2OJ
+#  url: https://sjzezoj.com/
+#  image: https://sjzezoj.com/images/logo_small.png
+#  desc: The OJ of S2 Middle School
 
-- name: GitHub
-  url: https://github.com/
-  image: https://img-blog.csdnimg.cn/img_convert/47127ad9b60270905b13deb37587cb09.png
-  desc: Build software better, together
+#- name: GitHub
+#  url: https://github.com/
+#  image: https://img-blog.csdnimg.cn/img_convert/47127ad9b60270905b13deb37587cb09.png
+#  desc: Build software better, together
 
-- name: Netlify
-  url: https://app.netlify.com
-  image: https://s1.ax1x.com/2023/03/03/ppkdAtU.png
-  desc: Netlify builds, deploys and hosts your front-end
+#- name: Netlify
+#  url: https://app.netlify.com
+#  image: https://s1.ax1x.com/2023/03/03/ppkdAtU.png
+#  desc: Netlify builds, deploys and hosts your front-end
 
-- name: ILovePDF
-  url: https://www.ilovepdf.com/zh-cn
-  image: https://img0.baidu.com/it/u=4229679210,861111708&fm=253&fmt=auto&app=138&f=PNG?w=256&h=256
-  desc: Online PDF tools for PDF lovers
+#- name: ILovePDF
+#  url: https://www.ilovepdf.com/zh-cn
+#  image: https://img0.baidu.com/it/u=4229679210,861111708&fm=253&fmt=auto&app=138&f=PNG?w=256&h=256
+#  desc: Online PDF tools for PDF lovers
