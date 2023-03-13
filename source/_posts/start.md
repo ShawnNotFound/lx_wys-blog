@@ -7,7 +7,7 @@ author: Shawn
 cover: https://pic.imgdb.cn/item/63ba7faebe43e0d30ed556e2.jpg
 ---
 
-# 这是一篇博客测试
+# 这是一篇测试
 ## v2rayn配置指南
 [点我下载](http://s.ptdown.gueruo.cn:8090/soft/v2rayNGsjb.apk?tk=QOyETM3UWN2QjN4Q2YmBTMlNzMiFjMzgDZ3UGM4ADMixnbvxXbvNmL4MHd0x3NxQzM2MDO3YTM)
 ```
